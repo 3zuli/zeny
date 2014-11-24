@@ -1,0 +1,2 @@
+// zeny:
+zeny = Math.random();
